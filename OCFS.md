@@ -16,4 +16,4 @@
 
 # Jest jednak coś więcej. Istnieje na przykład oddzielny "obszar alokacji" zarezerwowany dla każdego węzła w klastrze; kiedy węzeł musi dodać zakres do pliku, może pobrać go z własnego obszaru alokacji i uniknąć rywalizacji z innymi węzłami dla globalnej blokady. Istnieją również pewne operacje (na przykład usuwanie i zmienianie nazw plików), których nie może wykonać sam węzeł. Nie wystarczy, aby jeden węzeł usunął plik i zawrócił jego bloki, jeśli plik pozostanie otwarty w innym węźle. Istnieje zatem mechanizm głosowania dla operacji tego typu; węzeł, który chce usunąć plik, najpierw prosi o głosowanie. Jeśli inny węzeł zawetuje operację, plik pozostanie na razie. Tak czy inaczej, wszystkie węzły w klastrze mogą zauważyć, że plik jest usuwany i odpowiednio dostosowywać lokalne struktury danych.
 
-![alt text](http://wadhahdaouehi.tn/wp-content/uploads/2014/02/SAN-OCFS2-Bonding.png)
+![alt text](https://www.kutukupret.com/wp-content/uploads/2011/06/Postfix-drbd-ocfs2.png)
