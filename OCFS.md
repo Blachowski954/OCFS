@@ -18,3 +18,8 @@
 
 rys.1 Postfix, replikacja w czasie rzeczywistym na serwerze pocztowym za pomocą podwójnego podstawowego DRBD z OCFS2
 ![alt text](https://www.kutukupret.com/wp-content/uploads/2011/06/Postfix-drbd-ocfs2.png)
+linki:
+https://oss.oracle.com/projects/ocfs/dist/documentation/RHAS_best_practices.html
+https://lwn.net/Articles/137278/
+https://pl.wikipedia.org/wiki/OCFS2
+https://oss.oracle.com/projects/ocfs/
